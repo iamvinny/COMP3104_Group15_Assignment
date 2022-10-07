@@ -1,3 +1,4 @@
-hello from devops
-today is october 7 2022
-we have class until 9pm smh
+Devops is ver important 
+It aims to shorten the systems development life cycle and provide continuous delivery
+ with high software quality.
+ 
