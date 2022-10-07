@@ -1,4 +1,2 @@
-Devops is ver important 
-It aims to shorten the systems development life cycle and provide continuous delivery
- with high software quality.
- 
+COMP 3104
+class at 6-9pm on a monday
