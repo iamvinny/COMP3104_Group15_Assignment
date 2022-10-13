@@ -1,3 +1,5 @@
 This is a file for the importance of DeveOps in software development cycle
 the devops approach in software development cycle is a combination of integration, testing, deployment.
 it embraces agility, and scalability to build, test, and consume software products.
+
+Ferdous Azizi - 101315548
