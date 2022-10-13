@@ -1,1 +1,4 @@
 This is a file for information about the devOps
+the Devops course provide best hands-on experience for students
+it prepares them for the professional IT field
+this course provides best devOps technologies and strategies for the students.
