@@ -1,3 +1,5 @@
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
 
-Communication, collaboration and integration are the main principles of software delivery known as “DevOps” 
+Communication, collaboration and integration are the main principles of software delivery known as “DevOps”.
+
+It's very useful to have such skills nowadays.
